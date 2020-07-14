@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tag_food"
+        android:icon="@drawable/ic_food_24px"
+        android:title="@string/tag_food" />
+
+    <item
+        android:id="@+id/tag_shop"
+        android:icon="@drawable/ic_shop_24px"
+        android:title="@string/tag_shop" />
+
+    <item
+        android:id="@+id/tag_tran"
+        android:icon="@drawable/ic_commute_24px"
+        android:title="@string/tag_tran" />
+
+    <item
+        android:id="@+id/tag_pay"
+        android:icon="@drawable/ic_pay_24px"
+        android:title="@string/tag_pay" />
+
+    <item
+        android:id="@+id/tag_other"
+        android:icon="@drawable/ic_others_24px"
+        android:title="@string/tag_other" />
+
+</menu>

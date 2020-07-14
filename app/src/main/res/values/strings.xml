@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ExpenseTracker</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_day">Day</string>
+    <string name="title_month">Month</string>
+    <string name="title_history">History</string>
+    <string name="tag_food">Food</string>>
+    <string name="tag_shop">Shopping</string>>
+    <string name="tag_tran">Transport</string>>
+    <string name="tag_pay">Payment</string>>
+    <string name="tag_other">Others</string>>
+</resources>
